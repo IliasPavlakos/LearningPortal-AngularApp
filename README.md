@@ -1,5 +1,7 @@
 # DirectivesDeepDive
 
+**Check the app live at https://iliaspavlakos.github.io/LearningPortal-AngularApp/**
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
 ## Development server
@@ -25,3 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Screenshots
+
+![alt text](https://drive.usercontent.google.com/download?id=1-AzcPmWJZjN6gD73IuZbeZjRp7HzQTOi)
